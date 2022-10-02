@@ -26,9 +26,9 @@ public class App
         int length = 0;
         int height = 0;
         System.out.println("Enter the length of the rectange");
-        length = InputReader.getInt(length);
+        //length = InputReader.getInt(length);
         System.out.println("Enter the height of the rectangele");
-        height = InputReader.getIn
+        //height = InputReader.getIn(height);
         System.out.println("Area = " + (length * height));
         
 
